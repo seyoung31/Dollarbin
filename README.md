@@ -1,8 +1,7 @@
 # Dollarbin
 ## Getting Started
 **Sample Login**
-- username: technovation23@gmail.com
-  
+- username: technovation23@gmail.com 
 - password: technovation23!!
   
 **Register**: The user can add their first and last name, a valid email address, and a password
